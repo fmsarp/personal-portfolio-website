@@ -1,0 +1,45 @@
+.blue-color {
+    color: blue
+}
+
+body {
+    font-family: sans-serif;
+    line-height: 26px;
+}
+
+.content {
+    width: 50%;
+    float: left;
+}
+
+img {
+    height: 250px;
+    width: 200px;
+    padding: 20px;
+}
+
+.btn {
+    color: white;
+    background-color: #8845f4;
+    padding: 13px 42px;
+    border-radius: 20px;
+    text-decoration: none;
+}
+
+.container {
+    width: 100%;
+    height: auto;
+    margin: 20px;
+    display: inline-block;
+}
+
+.content2 {
+    width: 50%;
+    float: right;
+}
+
+.experience {
+    padding: 10px;
+    border: 1px solid blue;
+    background-color: blanchedalmond;
+}
